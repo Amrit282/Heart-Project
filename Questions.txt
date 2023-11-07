@@ -1,0 +1,7 @@
+Q1. What role does age play in the development and occurrence of heart diseases?
+Q2. What is the correlation between the type of chest pain and gender?
+Q3. How does the levels of cholesterol is changing with gender?
+Q4. Does angina while exercising implies higher probability of chest pain?
+Q5. What are the patterns of Thalassemia occurrence in relation to gender for the Normal, Fixed, and Reversible types of the disorder?
+Q6. How does the slope of the peak exercise ST segment affect the ST depression?
+Q7. What were the observed results during a fluoroscopy procedure?
